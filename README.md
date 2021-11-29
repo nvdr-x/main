@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nvaider
+- 👀 I’m interested in decentralized finance
+- 🌱 I’m currently learning about blockchain protocols and game theory 
+- 💞️ I’m looking to collaborate on new and interesting projects
+- 📫 How to reach me on keybase.io or nvaider.omg.lol

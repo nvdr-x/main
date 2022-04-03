@@ -2,4 +2,3 @@
 - 👀 I’m particularity interested in asset tokinzation and decentralized finance
 - 🌱 I’m currently learning about various Layer 1 and 2 blockchain protocols, as well as game theory
 - 💞️ I’m looking to collaborate with new and interesting projects, that will usher us into the new world-wide-web
-- 📫 If you would like to reach out for a chat, see keybase.io/nvaider or nvaider.omg.lol
